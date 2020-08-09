@@ -1,0 +1,82 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.ECommerce.API.Customers PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerce.API.Search/Services/OrdersService.cs">
+    <Files>
+      <File FileName="ECommerce.API.Orders/Interfaces/IOrdersProvider.cs" Line="9" Column="35" />
+      <File FileName="ECommerce.API.Orders/Db/OrderDbContext.cs" />
+      <File FileName="ECommerce.API.Orders/Controllers/OrdersController.cs" />
+      <File FileName="ECommerce.API.Orders/Db/Order.cs" />
+      <File FileName="ECommerce.API.Orders/Models/Order.cs" Line="20" Column="47" />
+      <File FileName="ECommerce.API.Orders/Db/Providers/OrdersProvider.cs" />
+      <File FileName="ECommerce.API.Orders/Profiles/OrderProfiles.cs" />
+      <File FileName="ECommerce.API.Products/Startup.cs" />
+      <File FileName="ECommerce.API.Orders/Startup.cs" />
+      <File FileName="ECommerce.API.Search/Models/SearchTerm.cs" />
+      <File FileName="ECommerce.API.Search/Interfaces/ISearchService.cs" Line="9" Column="54" />
+      <File FileName="ECommerce.API.Search/Controllers/SearchController.cs" Line="23" Column="45" />
+      <File FileName="ECommerce.API.Search/Services/SearchService.cs" Line="17" Column="54" />
+      <File FileName="ECommerce.API.Search/Startup.cs" Line="34" Column="16" />
+      <File FileName="ECommerce.API.Search/appsettings.json" Line="16" Column="1" />
+      <File FileName="ECommerce.API.Customers/appsettings.json" />
+      <File FileName="ECommerce.API.Customers/Properties/launchSettings.json" />
+      <File FileName="ECommerce.API.Orders/appsettings.Development.json" />
+      <File FileName="ECommerce.API.Orders/Properties/launchSettings.json" />
+      <File FileName="ECommerce.API.Products/Properties/launchSettings.json" Line="27" Column="48" />
+      <File FileName="ECommerce.API.Orders/Program.cs" />
+      <File FileName="ECommerce.API.Search/Program.cs" />
+      <File FileName="ECommerce.API.Orders/appsettings.json" />
+      <File FileName="ECommerce.API.Search/Properties/launchSettings.json" Line="27" Column="48" />
+      <File FileName="ECommerce.API.Products/appsettings.json" Line="1" Column="1" />
+      <File FileName="ECommerce.API.Search/Models/Order.cs" Line="9" Column="18" />
+      <File FileName="ECommerce.API.Search/Models/OrderItem.cs" Line="10" Column="8" />
+      <File FileName="ECommerce.API.Search/Interfaces/IOrdersService.cs" Line="10" Column="105" />
+      <File FileName="ECommerce.API.Search/Services/OrdersService.cs" Line="37" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="ECommerce" expanded="True">
+            <Node name="ECommerce.API.Customers" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="ECommerce.API.Orders" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="ECommerce.API.Products" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="ECommerce.API.Search" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="OrdersService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ECommerce.API.Products PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ECommerce.API.Orders PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{EA6BEB02-981D-49D3-86E3-1DBC70E370B1}" ItemName="ECommerce.API.Customers" />
+        <StartupItem ItemId="{400C6B30-EACF-4721-BDC2-18BD240E95FA}" ItemName="ECommerce.API.Orders" />
+        <StartupItem ItemId="{6EAAF104-C88A-4E06-A026-496280B773C9}" ItemName="ECommerce.API.Products" />
+        <StartupItem ItemId="{B9EEAFBE-9708-4F75-B872-AE57B48F48E6}" ItemName="ECommerce.API.Search" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.ECommerce.API.Search PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

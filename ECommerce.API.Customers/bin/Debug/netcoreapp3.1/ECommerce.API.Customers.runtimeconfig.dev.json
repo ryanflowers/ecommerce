@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/forwardthinking/.dotnet/store/|arch|/|tfm|",
+      "/Users/forwardthinking/.nuget/packages"
+    ]
+  }
+}
