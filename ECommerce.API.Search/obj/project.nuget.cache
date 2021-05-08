@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "me1/hwkRttMer1SyY7T1JzmG65BfGojAdkHTXWnju3koEHXfWoenxLodvC+QVT3XjceQvBoFm/I0GN2CBTTg4w==",
+  "dgSpecHash": "+aZLYiYKhJ040ijVk98Tz/dPF4Ow622WIb8e0V/TDmRcM5/rwAXtoj2FXma4k/9mT+MBHuGidha0qKgWLnBFqQ==",
   "success": true,
-  "projectFilePath": "/Users/forwardthinking/Projects/ECommerce/ECommerce.API.Search/ECommerce.API.Search.csproj",
+  "projectFilePath": "/Users/forwardthinking/Projects/ecommerce/ECommerce.API.Search/ECommerce.API.Search.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -867,11 +867,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/forwardthinking/Projects/ECommerce/ECommerce.API.Customers/ECommerce.API.Customers.csproj",
+      "projectUniqueName": "/Users/forwardthinking/Projects/ecommerce/ECommerce.API.Customers/ECommerce.API.Customers.csproj",
       "projectName": "ECommerce.API.Customers",
-      "projectPath": "/Users/forwardthinking/Projects/ECommerce/ECommerce.API.Customers/ECommerce.API.Customers.csproj",
+      "projectPath": "/Users/forwardthinking/Projects/ecommerce/ECommerce.API.Customers/ECommerce.API.Customers.csproj",
       "packagesPath": "/Users/forwardthinking/.nuget/packages/",
-      "outputPath": "/Users/forwardthinking/Projects/ECommerce/ECommerce.API.Customers/obj/",
+      "outputPath": "/Users/forwardthinking/Projects/ecommerce/ECommerce.API.Customers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/forwardthinking/.config/NuGet/NuGet.Config"
@@ -927,7 +927,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -21,12 +21,10 @@ namespace ECommerce.API.Search.Services
             {
                 var result = new
                 {
-                    Orders = ordersResult.Orders
+                    ordersResult.Orders
                 };
 
-                return (true, result);
-            }
-            return (false, null);
-        }
+                return (true, result);            }
+            return (false, null);   }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z5l0NbbOmkUWaFovqAGn42DMAixwJixJnOMFjDC0CFXJBsG1vmUl1Gqv8f+M84yMUQcYgAa9+jeb6mpV1mR3pA==",
+  "dgSpecHash": "3HcPLaps0msv1D1WEOnLbo6ID8scRNn1B6BMbXO44cYyEnk06/Qfpo8snt7Kkp3kXNwvJc4mRROSoKywrVAycg==",
   "success": true,
-  "projectFilePath": "/Users/forwardthinking/Projects/ECommerce/ECommerce.API.Orders/ECommerce.API.Orders.csproj",
+  "projectFilePath": "/Users/forwardthinking/Projects/ecommerce/ECommerce.API.Orders/ECommerce.API.Orders.csproj",
   "expectedPackageFiles": [
     "/Users/forwardthinking/.nuget/packages/automapper/10.0.0/automapper.10.0.0.nupkg.sha512",
     "/Users/forwardthinking/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.0.1/automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
